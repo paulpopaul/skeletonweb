@@ -1,0 +1,11 @@
+            <h4>Mensaje:</h4>
+            <p>{{ mensaje }}</p>
+            <br>
+            <h4>De:</h4>
+            <p>{{ nombre }} {{ apellido }}</p>
+            <br>
+            <h4>Email:</h4>
+            <p>{{ email }}</p>
+                <br>
+            <h4>Teléfono:</h4>
+            <p>{{ celular }}</p>
